@@ -1,0 +1,13 @@
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\bin\Debug\MonsterLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\bin\Debug\MonsterLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\bin\Debug\CharacterLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\bin\Debug\ItemLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\bin\Debug\SkillLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\bin\Debug\CharacterLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\bin\Debug\ItemLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\bin\Debug\SkillLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\obj\Debug\MonsterLibrary.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\obj\Debug\MonsterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\obj\Debug\MonsterLibrary.csproj.CopyComplete
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\obj\Debug\MonsterLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\MonsterLibrary\obj\Debug\MonsterLibrary.pdb

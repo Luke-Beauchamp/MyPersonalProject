@@ -1,0 +1,15 @@
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\obj\Debug\NPCLibrary.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\obj\Debug\NPCLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\bin\Debug\NPCLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\bin\Debug\NPCLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\bin\Debug\CharacterLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\bin\Debug\CharacterLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\obj\Debug\NPCLibrary.csproj.CopyComplete
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\obj\Debug\NPCLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\obj\Debug\NPCLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\bin\Debug\MonsterLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\bin\Debug\ItemLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\bin\Debug\SkillLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\bin\Debug\MonsterLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\bin\Debug\ItemLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\NPCLibrary\bin\Debug\SkillLibrary.pdb

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6D7DF86C-B748-4FC5-AD78-82585AF8148E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SceneLibrary</RootNamespace>
+    <AssemblyName>SceneLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Scene.cs" />
+    <Compile Include="SceneBattle.cs" />
+    <Compile Include="SceneMap.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SceneSocial.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CharacterLibrary\CharacterLibrary.csproj">
+      <Project>{c106fe50-669f-4c80-a9ee-52bbedebefb8}</Project>
+      <Name>CharacterLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EquipmentLibrary\EquipmentLibrary.csproj">
+      <Project>{9f6bbdb2-02a6-4c21-9ba8-fd78b6ac38ed}</Project>
+      <Name>EquipmentLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ItemLibrary\ItemLibrary.csproj">
+      <Project>{a312d887-0a62-431e-8635-98c1f76ba802}</Project>
+      <Name>ItemLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MapLibrary\MapLibrary.csproj">
+      <Project>{403b8ce3-23ce-4160-a6af-ef29ccdfaff1}</Project>
+      <Name>MapLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MenuLibrary\MenuLibrary.csproj">
+      <Project>{6e5a056e-03fc-4bf9-a6de-fef4ac84bf4b}</Project>
+      <Name>MenuLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MonsterLibrary\MonsterLibrary.csproj">
+      <Project>{7f83ba5f-c80d-4d98-bd6b-5edc6a987130}</Project>
+      <Name>MonsterLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NPCLibrary\NPCLibrary.csproj">
+      <Project>{f75f9cd3-4448-496d-b5ec-a9510ef27bac}</Project>
+      <Name>NPCLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PlayerLibrary\PlayerLibrary.csproj">
+      <Project>{8cc42041-7470-439a-ab34-5bfdf6dbd1f7}</Project>
+      <Name>PlayerLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RoomLibrary\RoomLibrary.csproj">
+      <Project>{20c3b090-cb79-401e-8b35-fe8ae6155baa}</Project>
+      <Name>RoomLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SkillLibrary\SkillLibrary.csproj">
+      <Project>{c3c10907-f914-46e4-8849-f95d77f40d67}</Project>
+      <Name>SkillLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

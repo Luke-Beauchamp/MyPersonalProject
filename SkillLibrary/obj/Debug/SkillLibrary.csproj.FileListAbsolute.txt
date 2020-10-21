@@ -1,0 +1,9 @@
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\SkillLibrary\bin\Debug\SkillLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\SkillLibrary\bin\Debug\SkillLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\SkillLibrary\bin\Debug\CharacterLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\SkillLibrary\bin\Debug\CharacterLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\SkillLibrary\obj\Debug\SkillLibrary.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\SkillLibrary\obj\Debug\SkillLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\SkillLibrary\obj\Debug\SkillLibrary.csproj.CopyComplete
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\SkillLibrary\obj\Debug\SkillLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\SkillLibrary\obj\Debug\SkillLibrary.pdb

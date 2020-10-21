@@ -1,0 +1,15 @@
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\bin\Debug\EquipmentLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\bin\Debug\EquipmentLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\bin\Debug\CharacterLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\bin\Debug\ConsumableLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\bin\Debug\ItemLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\bin\Debug\SkillLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\bin\Debug\CharacterLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\bin\Debug\ConsumableLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\bin\Debug\ItemLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\bin\Debug\SkillLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\obj\Debug\EquipmentLibrary.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\obj\Debug\EquipmentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\obj\Debug\EquipmentLibrary.csproj.CopyComplete
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\obj\Debug\EquipmentLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\EquipmentLibrary\obj\Debug\EquipmentLibrary.pdb

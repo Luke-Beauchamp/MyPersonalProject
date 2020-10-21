@@ -1,0 +1,9 @@
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ItemLibrary\bin\Debug\ItemLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ItemLibrary\bin\Debug\ItemLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ItemLibrary\obj\Debug\ItemLibrary.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ItemLibrary\obj\Debug\ItemLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ItemLibrary\obj\Debug\ItemLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ItemLibrary\obj\Debug\ItemLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ItemLibrary\bin\Debug\CharacterLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ItemLibrary\bin\Debug\CharacterLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ItemLibrary\obj\Debug\ItemLibrary.csproj.CopyComplete

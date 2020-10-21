@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ConsumableLibrary\bin\Debug\ConsumableLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ConsumableLibrary\bin\Debug\ConsumableLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ConsumableLibrary\obj\Debug\ConsumableLibrary.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ConsumableLibrary\obj\Debug\ConsumableLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ConsumableLibrary\obj\Debug\ConsumableLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\MyPersonalProject\MyPersonalProject\ConsumableLibrary\obj\Debug\ConsumableLibrary.pdb
